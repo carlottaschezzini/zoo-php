@@ -3,6 +3,8 @@
 <head>
   <title>Es. zoo</title>
 </head>
+<h1>Zoo - caso 1</h1>
+<img src="zoo.jpg" alt="Zoo" height="80" ><br/></a>
 <body>
 
   <?php 

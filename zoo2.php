@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Es. zoo</title>
+  <title>Es. zoo2</title>
 </head>
+<h1>Zoo - caso 2</h1>
+<img src="zoo.jpg" alt="Zoo" height="80" ><br/></a>
 <body>
 
   <?php 
