@@ -1,0 +1,29 @@
+txt esercizio
+
+Zoo 1 con:
+2 elefanti (verdure: 10kg/day/animale)
+2 coccodrillo (carne: 0.6kg/day/animale)
+3 scimmie (verdure: 0.6kg/day, carne: 0.1kg/day/animale) 
+8 zebre (verdure: 2kg/day/animale)
+3 rinoceronte (verdure: 1kg/day/animale)
+3 leone (carne: 1kg/day/animale)
+4 panda (verdure: 10kg/day/animale)
+3 orso (verdure: 0.7kg/day, carne: 0.3kg/day/animale)
+
+
+
+Zoo 2 con:
+1 elefante (verdure: 10kg/day/animale)
+2 orso polare (verdure: 0.3kg/day, carne: 0.6kg/day/animale) 
+4 scimmia (verdure: 0.6kg/day, carne: 0.1kg/day/animale)
+2 zebra (verdure: 2kg/day/animale)
+3 opossum (carne: 0.05kg/day/animale)
+2 ghepardo (carne: 0.6kg/day/animale)
+
+
+
+Dire quanti giorni ogni singolo zoo può alimentare i suoi animali con:
+verdure: 36kg, carne: 18kg 
+verdure: 6kg, carne: 38kg 
+verdure: 26kg, carne: 19kg 
+verdure: 60kg, carne: 37kg
